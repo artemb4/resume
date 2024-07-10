@@ -1,14 +1,14 @@
-title: heartsker/resume
-url: "https://github.com/heartsker"
+title: artemb4/resume
+url: "https://github.com/artemb4"
 baseurl: "/resume"
 
 markdown: kramdown
 
 tracking_id: 92611710
-remote_theme: heartsker/resume@gem
+remote_theme: artemb4/resume@gem
 
 footer: yes
-footer_url: "https://github.com/heartsker"
+footer_url: "https://github.com/artemb4"
 footer_text: "Обновлено 15.05.2024"
 
 sass:

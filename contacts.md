@@ -3,8 +3,7 @@ layout: default
 is_contact: true
 ---
 
-- LinkedIn: [daniel-pustotin](http://linkedin.com/in/daniel-pustotin)
-- GitHub: [heartsker](https://github.com/heartsker)
-- Telegram: [`@heartsker`](https://t.me/heartsker)
-- [daniel.pustotin@gmail.com](mailto:daniel.pustotin@gmail.com)
-- [`+7-(920)-000-81-50`](tel:+7-(920)-000-81-50)
+- GitHub: [artemb4](https://github.com/artemb4)
+- Telegram: [`@Chapaev_task_is_unsolved`](https://t.me/Chapaev_task_is_unsolved)
+- [bo4arovartyom@yandex.ru](mailto:bo4arovartyom@yandex.ru)
+- [`+7-(993)-479-53-57`](tel:+7-(993)-479-53-57)
