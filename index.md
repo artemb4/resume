@@ -4,7 +4,7 @@ layout: default
 
 ## 👋 Резюме
 
-<img class="profile-picture" src="me.png">
+<img class="profile-picture" src="me.jpg">
 
 **Артём Бочаров**, _Backend-разработчик_
 
